@@ -1,0 +1,23 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid #000;
+  margin-bottom: 5px;
+}
+.proImg {
+  padding: 5px;
+}
+.details {
+  margin-left: 10px;
+}
+.product-name {
+  color: blue;
+  font-weight: 400;
+}
+.addToCartBtn {
+  background-color: goldenrod;
+  width: 150px;
+  height: 30px;
+  margin-bottom: 10px;
+  border: 1px solid gainsboro;
+  border-radius: 6px;
+}
